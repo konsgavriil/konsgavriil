@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @konsgavriil.
-- 👀 I’m interested in Robotics, HRI, HCI, XAI and XAIP.
-- 🌱 I’m currently learning how to use advanced NLG techniques for explanation generation.
-- 💞️ I’m looking to collaborate on projects related to Task-oriented Dialogue.
+- 👀 I’m interested in Robotics, HRI, NLG, ML and XAI.
+- 🌱 I’m currently learning how to use advanced NLG techniques for explanation generation in Robotics.
+- 💞️ I’m looking to collaborate on projects related to Natural Language Generation.
 - 📫 How to reach me: konsgavriil [at] gmail [dot] com
 
 <!---
